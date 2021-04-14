@@ -1,2 +1,2 @@
-#Classifying credit card application using logistic regression
+#My machine learning projects
 
